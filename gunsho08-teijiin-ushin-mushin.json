@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/teijiin-ushin-mushin-utaawase",
  "yomi": "ていじいんうしんむしんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（七夕の一題）",
+  "era": "延喜16年（916）7月7日頃",
+  "author": "主催 宇多法皇（亭子院）",
+  "desc": "亭子院の殿上人たちが「心ある者・心なき者」に分かれ、七月七日に七夕を題として詠み合わせた歌合。織女と彦星の別れを詠む歌が並ぶ。判詞はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
